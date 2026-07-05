@@ -16,17 +16,16 @@ fun main(){
     m=k.toInt()
 
     val o:String
-    o="10.2"
+    o="11.12"
 
     val n:Double
     n=o.toDouble()
 
-    println("i="+i)
-    println("j="+j)
-    println("k="+k)
-    println("l="+l)
-    println("m="+m)
-    println("o="+o)
-    println("n="+n)
+    println("Integer Value:"+i)
+    println("Double Value (From Integer):"+j)
+    println("String Value:"+k)
+    println("Integer Value1 (From String):"+l)
+    println("Integer Value2 (From String):"+m)
+    println("Double Value (From String):"+n)
 
 }
