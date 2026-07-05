@@ -1,4 +1,5 @@
 fun main(){
+
     println("Enter Number:")
     val number=readln().toInt()
 

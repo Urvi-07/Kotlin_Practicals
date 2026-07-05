@@ -1,4 +1,5 @@
 fun main(){
+
     println("Enter Enrollment Number:")
     val s1=readln()
     println("Enter Student Name:")

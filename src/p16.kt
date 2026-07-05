@@ -9,6 +9,7 @@ fun main(){
     println("Subtraction of "+num1+", "+num2+" is "+sub(num1,num2))
     println("Multiplication of "+num1+", "+num2+" is "+mul(num1,num2))
     println("Division of "+num1+", "+num2+" is "+div(num1,num2))
+
 }
 
 fun add(num1:Int,num2:Int):Int{
